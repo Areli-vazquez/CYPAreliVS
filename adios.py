@@ -1,0 +1,2 @@
+print("adios mundo cruel")
+
