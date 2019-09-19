@@ -1,7 +1,8 @@
-RADIO = int(input("Dame un número real:"))
-ALTU = int(input("Dame un número real:"))
-VOL = 3.141592 * (RADIO**2) * ALTU
-ARE = 2* 3.141592 * RADIO * ALTU
-print(f"El {VOL} del cilindro")
-print(f"El {ARE} del cilindro")
+BASE = float(input("ingresa la medida de la base:"))
+ALTU = float(input("ingresa la medida de la altura:"))
+SUP = BASE * ALTU
+PER = 2*(BASE + ALTU)
+print(f"La superficie del rectangulo es: {SUP}")
+print(f"El perimetro del rectangulo es: {PER} ")
+
 
