@@ -3,9 +3,9 @@ SUMIMP = 0
 CUEPAR = 0 
 PROPAR = 0
 I = 1
-for I in range(1, 270, 10):
+for I in range(1, 10, 1):
     NUM = int(input("Ingresa un número entero"))
-    while I <= 270:
+    while I <= 10:
         if (-1 ** NUM) > 0:
             SUMPAR += NUM
             CUEPAR += 1
