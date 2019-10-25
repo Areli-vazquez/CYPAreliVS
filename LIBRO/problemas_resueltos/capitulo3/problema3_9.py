@@ -1,3 +1,4 @@
+
 SERIE = 0
 N = int(input("Ingresa el número de terminos que tendrá la serie:"))
 I = 1
