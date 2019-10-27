@@ -1,6 +1,6 @@
 NUM =int(input("Ingresa un número:"))
 if NUM > 0: 
-    while (NUM !=1):
+    while NUM !=1:
         if NUM % 2 == 0:
             NUM /=2
         else:
