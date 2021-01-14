@@ -1,4 +1,4 @@
-# Areli Monserrat Vàzquez Saldaña
+# Areli Vázquez
 ## Computadores y programaciòn grupo 1157
 ## Semestre 2020-I
 ![logo FES ARAGON](fesa.jpg)
